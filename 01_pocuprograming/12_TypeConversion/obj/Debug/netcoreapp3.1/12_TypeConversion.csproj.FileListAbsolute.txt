@@ -1,0 +1,12 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\bin\Debug\netcoreapp3.1\12_TypeConversion.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\12_TypeConversion\obj\Debug\netcoreapp3.1\12_TypeConversion.genruntimeconfig.cache

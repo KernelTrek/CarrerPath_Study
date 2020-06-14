@@ -1,0 +1,12 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\bin\Debug\netcoreapp3.1\11_StringInterpolation.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\11_StringInterpolation\obj\Debug\netcoreapp3.1\11_StringInterpolation.genruntimeconfig.cache

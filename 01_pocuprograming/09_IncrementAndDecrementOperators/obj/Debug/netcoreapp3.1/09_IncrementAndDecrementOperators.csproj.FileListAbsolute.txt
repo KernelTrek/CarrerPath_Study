@@ -1,0 +1,12 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\bin\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\09_IncrementAndDecrementOperators\obj\Debug\netcoreapp3.1\09_IncrementAndDecrementOperators.genruntimeconfig.cache
