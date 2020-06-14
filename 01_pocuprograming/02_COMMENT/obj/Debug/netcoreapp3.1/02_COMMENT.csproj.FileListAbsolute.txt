@@ -1,0 +1,13 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\bin\Debug\netcoreapp3.1\02_COMMENT.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.csprojAssemblyReference.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\02_COMMENT\obj\Debug\netcoreapp3.1\02_COMMENT.genruntimeconfig.cache

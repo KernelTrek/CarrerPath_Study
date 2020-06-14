@@ -1,0 +1,13 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\bin\Debug\netcoreapp3.1\01_pocuprograming.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.csprojAssemblyReference.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\01_pocuprograming\obj\Debug\netcoreapp3.1\01_pocuprograming.genruntimeconfig.cache
