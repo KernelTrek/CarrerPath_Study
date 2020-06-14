@@ -1,0 +1,13 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\bin\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.csprojAssemblyReference.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\03_PrimitiveTypesToBinary\obj\Debug\netcoreapp3.1\03_PrimitiveTypesToBinary.genruntimeconfig.cache

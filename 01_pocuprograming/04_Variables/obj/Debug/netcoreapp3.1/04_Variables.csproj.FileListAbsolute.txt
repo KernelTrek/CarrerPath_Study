@@ -1,0 +1,13 @@
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.exe
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.deps.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.runtimeconfig.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.runtimeconfig.dev.json
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\bin\Debug\netcoreapp3.1\04_Variables.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.csprojAssemblyReference.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.AssemblyInfoInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.AssemblyInfo.cs
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.csproj.CoreCompileInputs.cache
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.dll
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.pdb
+C:\Users\kerne\source\repos\CarrerPath_Study\01_pocuprograming\04_Variables\obj\Debug\netcoreapp3.1\04_Variables.genruntimeconfig.cache
